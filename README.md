@@ -75,7 +75,7 @@ GAN_project/
 ├── app.py                        # Streamlit-интерфейс
 ├── gan.py                        # Архитектура GAN
 ├── generator_epoch_370.h5        # Веса обученной модели (ссылка на Яндекс-диск)
-├── img_align_celeba/             # Датесет CelebA (ссылка)
+├── img_align_celeba              # Датесет CelebA (ссылка)
 ├── requirements.txt              # Зависимости
 ├── README.md
 └── images                        # Примеры сгенерированных изображений (ссылка на Яндекс-диск)
