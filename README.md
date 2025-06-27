@@ -78,7 +78,7 @@ GAN_project/
 ├── img_align_celeba/    # Датесет CelebA
 ├── requirements.txt     # Зависимости
 ├── README.md
-└── images/            # Примеры сгенерированных изображений
+└── images            # Примеры сгенерированных изображений
 ```
 👨‍💻 Разработчики
 @AlinaBoychuk
